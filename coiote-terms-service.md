@@ -33,3 +33,7 @@ Embed Builder: Criação e envio de mensagens formatadas (embeds).
 
 **7. Contato**
 Se você tiver dúvidas ou preocupações sobre estes Termos de Uso ou sobre o Coiote#3912, entre em contato conosco através deste repositório.
+
+---
+
+**Data de Vigência:** 08 de agosto de 2024
